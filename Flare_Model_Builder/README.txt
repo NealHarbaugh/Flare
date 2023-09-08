@@ -1,6 +1,6 @@
 # Flare AI
 
-This project aims to train AI models to predict the state of a forest after a wildfire has occurred. This project can work with both numerical and categorical data and is a valuable tool for assessing post-wildfire forest conditions.
+This project aims to train AI models to predict the state of a forest after a wildfire has occurred. This project can work with both numerical and categorical data and has the potential to be a valuable tool for assessing post-wildfire forest conditions.
 
 
 ## Getting Started
